@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f88373245abfcba4faba73f565ffa4b1, type: 3}
+  m_Name: Bakunawa II
+  m_EditorClassIdentifier: 
+  uiDisplay: {fileID: 21300000, guid: ba6aea6a2f701f748b1594fed0c89faf, type: 3}
+  stackable: 0
+  type: 3
+  Name: Bakunawa (Fine)
+  description: A prisitne Serpent sword that can do well in the prescence of combat.
+    It is said that this type of weapon is named after a Serpent Lord in the great
+    river.
+  data:
+    NameId: Bakunawa2
+    Id: 2
+    buffs:
+    - attribute: 0
+      value: 0
+      min: 2
+      max: 2
+    - attribute: 4
+      value: 0
+      min: 25
+      max: 30
+    - attribute: 2
+      value: 0
+      min: 25
+      max: 50

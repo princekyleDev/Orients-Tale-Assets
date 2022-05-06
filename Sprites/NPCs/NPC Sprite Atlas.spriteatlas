@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NPC Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 15f697bb507e9194481a585b4223584e, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8f3149800233f8b44a5ba24712112cb2, type: 3}
+  - {fileID: 8079047257735052956, guid: d9282d921e0fc53488e3c1f6be738c5f, type: 3}
+  - {fileID: -2329608352262002233, guid: d9282d921e0fc53488e3c1f6be738c5f, type: 3}
+  - {fileID: -4636101989118629586, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 8151163064335091926, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 8571762676795959989, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: -6423920118945511283, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: -8804784426121230324, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 7421827860844699226, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 397157216446543886, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: -869686767302281156, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 2427155262487021480, guid: 4fb40cd3d9e94c84a9ddfcb8195e76b1, type: 3}
+  - {fileID: 21300000, guid: 7356979419d60f342a4338674081be9b, type: 3}
+  - {fileID: 21300000, guid: e384b1f58d6d95443abe88da2bb4aba8, type: 3}
+  - {fileID: 8257616109424168558, guid: 75bc2137b04367546a6fbb3455fa40a9, type: 3}
+  - {fileID: 6518381378023451087, guid: 75bc2137b04367546a6fbb3455fa40a9, type: 3}
+  - {fileID: -2231904093263849053, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: 8564258421524175217, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: -2192266072238485854, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: -1994331030490638016, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: 8452921999236974268, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: 3456977100990829912, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: -1987053266236465578, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: 6978905326819883421, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: -5719311630609847425, guid: 46f80a373161619448e6a357aa138500, type: 3}
+  - {fileID: 21300000, guid: 361a846bbd1e7a64f8b11ee3800a2984, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Quest Indicator Complete
+  - Duwende-Elder-Sheet_1
+  - Duwende-Elder-Sheet_0
+  - Duwende-Main-Updated_6
+  - Duwende-Main-Updated_7
+  - Duwende-Main-Updated_4
+  - Duwende-Main-Updated_5
+  - Duwende-Main-Updated_2
+  - Duwende-Main-Updated_3
+  - Duwende-Main-Updated_0
+  - Duwende-Main-Updated_1
+  - Duwende-Main-Updated_8
+  - Quest Indicator Complete 2
+  - Quest Indicators
+  - Duwende-White_0
+  - Duwende-White_1
+  - Duwende-Main-Sheet_6
+  - Duwende-Main-Sheet_7
+  - Duwende-Main-Sheet_4
+  - Duwende-Main-Sheet_5
+  - Duwende-Main-Sheet_2
+  - Duwende-Main-Sheet_3
+  - Duwende-Main-Sheet_0
+  - Duwende-Main-Sheet_1
+  - Duwende-Main-Sheet_8
+  - Quest Indicator Complete 3
+  m_RenderDataMap: {}
+  m_Tag: NPC Sprite Atlas
+  m_IsVariant: 0

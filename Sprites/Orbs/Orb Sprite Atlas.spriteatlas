@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Orb Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2d1e47dbdfe36c24899305877bd3cb17, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 8059730726732425424, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: 3205792405838690868, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: -4043734315685638141, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: 5069023968172962269, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: 7871712719213498385, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: 6302048962329332238, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: -6342211576260726578, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: -1574395110204879122, guid: f08595570191d5f48acb545f9eee8254, type: 3}
+  - {fileID: 1800402820244116150, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: 6436259727075361226, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: -5015975683424312185, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: 5343902464572128635, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: -202115374659448537, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: 264942214700684999, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: -3499122491004429322, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  - {fileID: -496661743089387803, guid: 0794d00a051c4fd41823f66aa8489474, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Player-YellowOrb-Sheet_7
+  - Player-YellowOrb-Sheet_6
+  - Player-YellowOrb-Sheet_5
+  - Player-YellowOrb-Sheet_4
+  - Player-YellowOrb-Sheet_3
+  - Player-YellowOrb-Sheet_2
+  - Player-YellowOrb-Sheet_1
+  - Player-YellowOrb-Sheet_0
+  - Player-Orb0001-Sheet_2
+  - Player-Orb0001-Sheet_3
+  - Player-Orb0001-Sheet_0
+  - Player-Orb0001-Sheet_1
+  - Player-Orb0001-Sheet_6
+  - Player-Orb0001-Sheet_7
+  - Player-Orb0001-Sheet_4
+  - Player-Orb0001-Sheet_5
+  m_RenderDataMap: {}
+  m_Tag: Orb Sprite Atlas
+  m_IsVariant: 0

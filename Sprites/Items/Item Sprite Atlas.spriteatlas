@@ -1,0 +1,125 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Item Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 2
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 2737e09b68c45634298964f8e41395c7, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 375336502762905208, guid: 0866d63002ad35449a372b76c25e0c5f, type: 3}
+  - {fileID: 8396001552742774560, guid: 0866d63002ad35449a372b76c25e0c5f, type: 3}
+  - {fileID: -3529090132355845049, guid: 0866d63002ad35449a372b76c25e0c5f, type: 3}
+  - {fileID: 21300000, guid: dae309a0b97db3b4c851cae2c18756d4, type: 3}
+  - {fileID: 21300000, guid: 2b9438b0d3a6ca44da3fdddf150bb8af, type: 3}
+  - {fileID: 7293598183456022363, guid: 57f02be0289ea6c42bf8f59bf5a0b63d, type: 3}
+  - {fileID: 21300000, guid: f6553942015456848a3168f3d1eba2dc, type: 3}
+  - {fileID: -6370220573336147246, guid: c18f2bc2720085141b1aa12d9ff65056, type: 3}
+  - {fileID: 8973450407983382392, guid: c18f2bc2720085141b1aa12d9ff65056, type: 3}
+  - {fileID: -3223576419172686277, guid: c18f2bc2720085141b1aa12d9ff65056, type: 3}
+  - {fileID: -3808930119610085597, guid: 465d2353ae9d5f9448dad0ddd205a89c, type: 3}
+  - {fileID: 823177210440319673, guid: 465d2353ae9d5f9448dad0ddd205a89c, type: 3}
+  - {fileID: -6939444123477113736, guid: 465d2353ae9d5f9448dad0ddd205a89c, type: 3}
+  - {fileID: 1295719428618121876, guid: d0906c532db26954ba58f71c856950ad, type: 3}
+  - {fileID: 21300000, guid: 53094be49fb1e8642bfb516d94c70ca3, type: 3}
+  - {fileID: 21300000, guid: 08890b471e189ce489683166ffcee708, type: 3}
+  - {fileID: 21300000, guid: 6ba4f47725495e6478b296070b9f4400, type: 3}
+  - {fileID: 21300000, guid: fe230808eaee5d44c95356dd21771256, type: 3}
+  - {fileID: 21300000, guid: 4afa1c2809b7b8a438e77f5c4aaf5c96, type: 3}
+  - {fileID: 21300000, guid: ba6aea6a2f701f748b1594fed0c89faf, type: 3}
+  - {fileID: 8450076254896001041, guid: 0541f9aa12a17df468c49ef7cfa9f1c5, type: 3}
+  - {fileID: 21300000, guid: 170b437b004869f4b8cc7d34b5616027, type: 3}
+  - {fileID: 21300000, guid: e02b758be238ba54eb64fb6f256001af, type: 3}
+  - {fileID: 21300000, guid: 76adeb9b3fd08cc42a4eed690f42b504, type: 3}
+  - {fileID: 21300000, guid: dda5594db194a974fb3eb261da72f4df, type: 3}
+  - {fileID: -4589420893025597259, guid: 3918ecadf99d99b43b8b6094dc371e6c, type: 3}
+  - {fileID: -4204193156693032418, guid: c166feadf6c43a342b11f49a3dc5788a, type: 3}
+  - {fileID: -6681012615771168195, guid: 16e0efdd5d24c814696af56ebe9392f1, type: 3}
+  - {fileID: 21300000, guid: add0f6ed54c93a447962f9fb78a1de42, type: 3}
+  - {fileID: 21300000, guid: 8b85844ee3e8f5146bb02d8ca57e1915, type: 3}
+  - {fileID: 2182670647049908174, guid: 437ecbbe10aeaa348a15206a75e22883, type: 3}
+  - {fileID: 21300000, guid: 92520c4fcdf115f4ab0838d58c3c5826, type: 3}
+  - {fileID: -4503655607696296023, guid: e2ee4c8f927e2b045ac0463aa63545ed, type: 3}
+  - {fileID: -4249717121529113190, guid: e2ee4c8f927e2b045ac0463aa63545ed, type: 3}
+  - {fileID: 1329953188217022217, guid: 36cd089f13925734886b53719087da5e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Bakunawa-2-AttackFx-Sheet_2
+  - Bakunawa-2-AttackFx-Sheet_0
+  - Bakunawa-2-AttackFx-Sheet_1
+  - Lihok-1
+  - WalkingAxe
+  - Apple_0
+  - Candy Cane-4
+  - Bakunawa-1-AttackFx-Sheet_2
+  - Bakunawa-1-AttackFx-Sheet_1
+  - Bakunawa-1-AttackFx-Sheet_0
+  - Patas
+  - Lakas
+  - Bilis
+  - Lihok-1_0
+  - Apple
+  - Agimat-I-Without-Frame
+  - Moro Armor-1-WithoutFrame
+  - Lihok-1-withFrame
+  - Agimat-I
+  - Bakunawa-2-withFrame
+  - WalkingAxe-withFrame_0
+  - Panabas-1
+  - Candy Cane-4-withFrame
+  - Moro Armor-1
+  - Bakunawa-1
+  - Bakunawa-1_0
+  - Panabas-1_0
+  - WalkingAxe_0
+  - Bakunawa-1-withFrame
+  - Bakunawa-2
+  - Bakunawa-2_0
+  - Panabas-1-withFrame
+  - Chest Wooden_1
+  - Chest Wooden_0
+  - Candy Cane-4_0
+  m_RenderDataMap: {}
+  m_Tag: Item Sprite Atlas
+  m_IsVariant: 0

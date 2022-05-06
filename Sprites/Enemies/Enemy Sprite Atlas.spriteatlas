@@ -1,0 +1,177 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Enemy Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 512
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 4
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 005a5755a46c04845acb604a03b0f1aa, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 7618646665292989206, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -6997592663184282160, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -5655466363782161564, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 4840980775631589521, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 8955746450556864123, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -8149110535950781764, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -8592834053915717843, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -2660460933806820935, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 8799226288897176871, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 8766328689792816375, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 6427903004724683053, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 156869699219851142, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -25566741620907846, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 5980490118021303819, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 5861034615205513393, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 438741052055698201, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 8898500938457931918, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 7142650520580483754, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -1570296311800068293, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 299805728389493560, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 3264378697026279851, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -7427463589737078911, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 6168466897535514862, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 2711358394493095955, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 2538441773183666288, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -1986335374886554310, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -2856942694189070863, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 3039014640853212993, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 3383305200570607865, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -5811150311213374442, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 574524729112445272, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 9202471617836704514, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -2295415538443059809, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -3182409548779607013, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 1128164307575158070, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -7394421837553742376, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -8180264345145350956, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 3722412423550163382, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -35169254887804901, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -2234383028299237461, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -408832460486254476, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -5543730387295899599, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -7796129653201503294, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 3740772109872864452, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: -6314351252242970667, guid: efaf9c920298d8d48b5dd514297537f5, type: 3}
+  - {fileID: 9174998005565827200, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 8380761758521906345, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 2954317251503450850, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 5414457820681364274, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: -9026243466909087689, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 7024288024450107793, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 4980382753400536428, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 579356234998087141, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 4354165453362667003, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 3006877093517367769, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 1385163311834729904, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 94495657263892635, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: -7825247732895588722, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 4037408829488702837, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 3997520095511005767, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  - {fileID: 2732985870350099657, guid: 055fb3b919ff34c44926e89576f34c45, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Shadowling1-Main-Sheet_1
+  - Shadowling1-Main-Sheet_0
+  - Shadowling1-Main-Sheet_3
+  - Shadowling1-Main-Sheet_2
+  - Shadowling1-Main-Sheet_5
+  - Shadowling1-Main-Sheet_4
+  - Shadowling1-Main-Sheet_7
+  - Shadowling1-Main-Sheet_6
+  - Shadowling1-Main-Sheet_9
+  - Shadowling1-Main-Sheet_8
+  - Shadowling1-Main-Sheet_10
+  - Shadowling1-Main-Sheet_11
+  - Shadowling1-Main-Sheet_12
+  - Shadowling1-Main-Sheet_13
+  - Shadowling1-Main-Sheet_14
+  - Shadowling1-Main-Sheet_15
+  - Shadowling1-Main-Sheet_16
+  - Shadowling1-Main-Sheet_17
+  - Shadowling1-Main-Sheet_18
+  - Shadowling1-Main-Sheet_19
+  - Shadowling1-Main-Sheet_36
+  - Shadowling1-Main-Sheet_37
+  - Shadowling1-Main-Sheet_34
+  - Shadowling1-Main-Sheet_35
+  - Shadowling1-Main-Sheet_29
+  - Shadowling1-Main-Sheet_32
+  - Shadowling1-Main-Sheet_28
+  - Shadowling1-Main-Sheet_33
+  - Shadowling1-Main-Sheet_30
+  - Shadowling1-Main-Sheet_31
+  - Shadowling1-Main-Sheet_21
+  - Shadowling1-Main-Sheet_20
+  - Shadowling1-Main-Sheet_23
+  - Shadowling1-Main-Sheet_38
+  - Shadowling1-Main-Sheet_22
+  - Shadowling1-Main-Sheet_39
+  - Shadowling1-Main-Sheet_25
+  - Shadowling1-Main-Sheet_24
+  - Shadowling1-Main-Sheet_27
+  - Shadowling1-Main-Sheet_26
+  - Shadowling1-Main-Sheet_44
+  - Shadowling1-Main-Sheet_43
+  - Shadowling1-Main-Sheet_42
+  - Shadowling1-Main-Sheet_41
+  - Shadowling1-Main-Sheet_40
+  - Shadowling1-Death-Sheet_12
+  - Shadowling1-Death-Sheet_6
+  - Shadowling1-Death-Sheet_7
+  - Shadowling1-Death-Sheet_4
+  - Shadowling1-Death-Sheet_5
+  - Shadowling1-Death-Sheet_2
+  - Shadowling1-Death-Sheet_3
+  - Shadowling1-Death-Sheet_0
+  - Shadowling1-Death-Sheet_1
+  - Shadowling1-Death-Sheet_8
+  - Shadowling1-Death-Sheet_9
+  - Shadowling1-Death-Sheet_15
+  - Shadowling1-Death-Sheet_14
+  - Shadowling1-Death-Sheet_11
+  - Shadowling1-Death-Sheet_10
+  - Shadowling1-Death-Sheet_13
+  m_RenderDataMap: {}
+  m_Tag: Enemy Sprite Atlas
+  m_IsVariant: 0

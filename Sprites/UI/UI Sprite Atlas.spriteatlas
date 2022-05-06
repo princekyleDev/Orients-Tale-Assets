@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UI Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6f11d3477eddcb24f80fdccb61d5b4a6, type: 3}
+    - {fileID: 102900000, guid: da4c87a269dd63344ab81eb6a8a86828, type: 3}
+    - {fileID: 102900000, guid: 3c23bfdfdcab2da4cbc9ba3af2ee4617, type: 3}
+    - {fileID: 102900000, guid: f8c3f37e92ede674fb0e8e2e663f89ad, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 9f0d76001fbeb824dba3e752728e5e8c, type: 3}
+  - {fileID: 21300000, guid: 06f8db70cee6b1846ba672a86451d437, type: 3}
+  - {fileID: 21300000, guid: 19b88ac111578dd428fdc40ed125adaf, type: 3}
+  - {fileID: 21300000, guid: ed059c728360db64a981116c6aff028f, type: 3}
+  - {fileID: 21300000, guid: 00ec3603205ac01468a3365d26fca98d, type: 3}
+  - {fileID: 21300000, guid: 172a6f1382b35ac4796d60d57ec8e58c, type: 3}
+  - {fileID: 21300000, guid: 0f9ee7c36bedfc04795bdbb728667748, type: 3}
+  - {fileID: 21300000, guid: 6d5f7844fae0db04a994d092abcd384b, type: 3}
+  - {fileID: 21300000, guid: 11c7079420880dd4db0c234ea0b33739, type: 3}
+  - {fileID: 21300000, guid: de34946518fa6cd45be26a76d1aad9d6, type: 3}
+  - {fileID: 21300000, guid: 5c8f8f855012cc84580b0a780ed62113, type: 3}
+  - {fileID: 21300000, guid: 1331a1b5c13756642b716bdf1fba86b1, type: 3}
+  - {fileID: 21300000, guid: 9eb2a106b22c382438e3bfa1b39a505a, type: 3}
+  - {fileID: 21300000, guid: 46357396791a91e41ba0ffa8c187ac91, type: 3}
+  - {fileID: 21300000, guid: 344829c6cbfc1464cb07b493e8a410fa, type: 3}
+  - {fileID: 21300000, guid: bbfea10778b502b439692b0357d1a998, type: 3}
+  - {fileID: 21300000, guid: ef5ce2b7b76e1f248829a5cd4e15e79d, type: 3}
+  - {fileID: 21300000, guid: 0382ba795f2811948b0acc8d9f86a9d1, type: 3}
+  - {fileID: 21300000, guid: cf5c872a96e739842a59c7e1ea0ebf4a, type: 3}
+  - {fileID: 21300000, guid: d3dec2ca4f4bba84ea02e62d05abdfdc, type: 3}
+  - {fileID: 21300000, guid: 8cfba9eab7fe89d43be0c5e7708669bb, type: 3}
+  - {fileID: 21300000, guid: 4b5d121bd3ef7ee41818cc039dd182df, type: 3}
+  - {fileID: 21300000, guid: 23bfe69b702a1024d9137fa196d0998e, type: 3}
+  - {fileID: 21300000, guid: 31c07d2dd258dc3489e799c2f8f2fd91, type: 3}
+  - {fileID: 21300000, guid: 58a1908fa03d0fd449a593b19691385b, type: 3}
+  - {fileID: 21300000, guid: dff958dfaaf2cc14a9d72bb8232a4973, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Talk
+  - Sound
+  - Made with Unity
+  - Ring
+  - Back_Icon 1
+  - Pause_Icon
+  - Cog
+  - U_Logo_Black_RGB
+  - Book
+  - Project_IndieGo_Avatar
+  - Project_IndieGo_Avatar_Alt
+  - Sword
+  - Equipment
+  - HoodMode
+  - Follow
+  - unity-mwu-black
+  - Home_Icon 1
+  - unhoodedMode
+  - Heart with border
+  - U_Logo_White_RGB
+  - Exit
+  - Hand
+  - Attack
+  - Chest
+  - Shield
+  - Resume_Icon
+  m_RenderDataMap: {}
+  m_Tag: UI Sprite Atlas
+  m_IsVariant: 0
